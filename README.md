@@ -20,7 +20,7 @@
 ## <a name="feedback" /> Связь с преподавателями
 * [Telegram-канал](https://t.me/joinchat/AAAAAEUmx5cJLOdLXsOt8g), в котором будут появляться все важные новости
 * Обратная связь - по почте mlcoursemm@gmail.com
-* Ну и всегда можно написать в [issues](https://github.com/mlcoursemm/mlcoursemm2019spring/issues) :)
+* Ну и всегда можно написать в [issues](https://github.com/mlcoursemm/cvcoursemm2019autumn/issues) :)
 ## <a name="marks" /> Результаты выполнения заданий
 * Соревнование по машинному обучению
 * Первое практическое задание
