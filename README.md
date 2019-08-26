@@ -76,8 +76,8 @@
 Современные подходы к сжатию и ускорению нейронных сетей.
 ## <a name="lit" /> Список литературы
 1. Ian Goodfellow and Yoshua Bengio and Aaron Courville. [Deep Learning](https://www.deeplearningbook.org), 1st edition, MIT Press, 2016.
-* http://neuralnetworksanddeeplearning.com/
-* Francois Chollet. [Deep Learning with Python](http://faculty.neu.edu.cn/yury/AAI/Textbook/Deep Learning with Python.pdf), 1st edition, Manning, 2017.
+2. http://neuralnetworksanddeeplearning.com/
+3. Francois Chollet. [Deep Learning with Python](http://faculty.neu.edu.cn/yury/AAI/Textbook/Deep%20Learning%20with%20Python.pdf), 1st edition, Manning, 2017.
 ## <a name="links" /> Полезные ссылки 
 ### Машинное обучение
 * Желательно иметь базу в виде курса по машинному обучению (например, [здесь](https://github.com/mlcoursemm/mlcoursemm2019spring) лежит соответствующий курс)
