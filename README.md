@@ -10,6 +10,7 @@
 * [Список литературы](#lit)
 * [Полезные ссылки](#links)
 ## <a name="news" /> Новости
+* (2019-11-13) Выложена [шестая лекция](lec/lecture06.pdf) и код с [второго семинара по введению в Keras](seminars/02_mnist_keras_tutorial_generators_and_callbacks.ipynb)
 * (2019-11-07) Выложена [лекция по Image Translation](lec/Image%20Translation.pdf) от Д. Михайлова
 * (2019-11-06) Выложено [второе теоретическое задание](assignments/theory02.pdf). Дедлайн отправки решений: 26.11.2019 включительно
 * (2019-11-06) Выложена [пятая лекция](lec/lecture05.pdf)
