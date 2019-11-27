@@ -10,8 +10,9 @@
 * [Список литературы](#lit)
 * [Полезные ссылки](#links)
 ## <a name="news" /> Новости
+* (2019-11-27) Выложена [краткая версия лекции по Image Generation by GAN](lec/Image_Generation_by_GAN.pdf) от А. Иванюты, а также полные версии лекций по [Image Generation by GAN (246 MB)](https://drive.google.com/open?id=1gJizfyVxURgT21CVD10e6RfrZQJF1BQv) и [Image Translation (76 MB)](https://drive.google.com/open?id=1ldrLTkKqAIKw5gCvERBXVR5rLhi5piOz)
 * (2019-11-13) Выложена [шестая лекция](lec/lecture06.pdf) и код с [второго семинара по введению в Keras](seminars/02_mnist_keras_tutorial_generators_and_callbacks.ipynb)
-* (2019-11-07) Выложена [лекция по Image Translation](lec/Image%20Translation.pdf) от Д. Михайлова
+* (2019-11-07) Выложена [краткая версия лекции по Image Translation](lec/Image_Translation.pdf) от Д. Михайлова
 * (2019-11-06) Выложено [второе теоретическое задание](assignments/theory02.pdf). Дедлайн отправки решений: 26.11.2019 включительно
 * (2019-11-06) Выложена [пятая лекция](lec/lecture05.pdf)
 * (2019-10-22) Выложено [первое практическое задание](assignments/programming01.ipynb). Дедлайн отправки решений: 12.11.2019 включительно
