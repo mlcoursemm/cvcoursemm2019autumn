@@ -10,6 +10,8 @@
 * [Список литературы](#lit)
 * [Полезные ссылки](#links)
 ## <a name="news" /> Новости
+* (2019-12-12) Выложены [девятая лекция](lec/lecture09-compression.pdf) и [семинар](seminars/03_transfer_learning.ipynb)
+* (2019-12-10) Началось [соревнование по компьютерному зрению](https://www.kaggle.com/t/adbfbe740dc14c5384670ae92cae575c)
 * (2019-12-05) Выложена [восьмая лекция](lec/lecture08-enhancement.pdf)
 * (2019-11-27) Выложена [седьмая лекция](lec/lecture07.pdf)
 * (2019-11-27) Выложена [краткая версия лекции по Image Generation by GAN](lec/Image_Generation_by_GAN.pdf) от А. Иванюты, а также полные версии лекций по [Image Generation by GAN (246 MB)](https://drive.google.com/open?id=1gJizfyVxURgT21CVD10e6RfrZQJF1BQv) и [Image Translation (76 MB)](https://drive.google.com/open?id=1ldrLTkKqAIKw5gCvERBXVR5rLhi5piOz)
