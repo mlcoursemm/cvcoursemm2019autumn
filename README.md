@@ -10,6 +10,7 @@
 * [Список литературы](#lit)
 * [Полезные ссылки](#links)
 ## <a name="news" /> Новости
+* (2019-12-17) Добавлены критерии получения оценок за курс 
 * (2019-12-12) Выложены [девятая лекция](lec/lecture09-compression.pdf) и [семинар](seminars/03_transfer_learning.ipynb)
 * (2019-12-10) Началось [соревнование по компьютерному зрению](https://www.kaggle.com/t/adbfbe740dc14c5384670ae92cae575c)
 * (2019-12-05) Выложена [восьмая лекция](lec/lecture08-enhancement.pdf)
@@ -36,10 +37,10 @@
 * [Telegram-канал](https://t.me/joinchat/AAAAAEUmx5cJLOdLXsOt8g), в котором будут появляться все важные новости
 * Обратная связь - по почте mlcoursemm@gmail.com
 * Ну и всегда можно написать в [issues](https://github.com/mlcoursemm/cvcoursemm2019autumn/issues) :)
-## <a name="marks" /> Результаты выполнения заданий
-* Соревнования по машинному обучению
-* Первое практическое задание
-* Первое теоретическое задание
+## <a name="marks" /> Критерии оценок
+* Отлично: 52 балла и выше
+* Хорошо: 39 баллов и выше
+* Удовлетворительно / зачет: 26 баллов и выше
 * [Итоговая таблица с результатами](https://docs.google.com/spreadsheets/d/1i3ahmbSfCHeEEvsG7PFfaHqrQTRxUrF2BF4hw4xNydM/edit#gid=0)
 ## <a name="program" /> Программа курса 
 Тема 1.
