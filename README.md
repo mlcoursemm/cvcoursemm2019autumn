@@ -1,3 +1,5 @@
+[EN version](#en)
+
 # Введение в компьютерный интеллект. Современное компьютерное зрение.
 
 ## Содержание
@@ -100,3 +102,109 @@
 * Желательно иметь базу в виде курса по машинному обучению (например, [здесь](https://github.com/mlcoursemm/mlcoursemm2019spring) лежит соответствующий курс)
 ### Python
 * Краткое введение в язык программирования Python [здесь](https://github.com/mlcoursemm/mlcoursemm2019spring/blob/master/prac/Python_intro.ipynb)
+
+
+### <a name="en" /> EN version
+
+# Introduction to Computer Intelligence. Modern computer vision.
+
+## Content
+* [News](#news1)
+* [Short info](#info1)
+* [Time and place](#ww1)
+* [Communication with teachers](#feedback1)
+* [Task results](#marks1)
+* [Course program](#program1)
+* [Bibliography](#lit1)
+* [Useful links](#links1)
+## <a name="news1" /> News
+* (2019-12-25) Posted [tenth lecture](lec/lecture10-advattack.pdf)
+* (2019-12-17) Added criteria for getting grades for the course 
+* (2019-12-12) Posted [ninth lecture](lec/lecture09-compression.pdf) and [seminar](seminars/03_transfer_learning.ipynb)
+* (2019-12-10) Started [Computer Vision Competition](https://www.kaggle.com/t/adbfbe740dc14c5384670ae92cae575c)
+* (2019-12-05) Posted [eighth lecture](lec/lecture08-enhancement.pdf)
+* (2019-11-27) Posted [seventh lecture](lec/lecture07.pdf)
+* (2019-11-27) Posted [short version of the lecture on Image Generation by GAN](lec/Image_Generation_by_GAN.pdf) from A. Ivanyuta, as well as full versions of lectures on [Image Generation by GAN (246 MB)](https://drive.google.com/open?id=1gJizfyVxURgT21CVD10e6RfrZQJF1BQv) and [Image Translation (76 MB)](https://drive.google.com/open?id=1ldrLTkKqAIKw5gCvERBXVR5rLhi5piOz)
+* (2019-11-13) Posted [sixth lecture](lec/lecture06.pdf) and the code from [second Keras Introduction Workshop](seminars/02_mnist_keras_tutorial_generators_and_callbacks.ipynb)
+* (2019-11-07) Added [short version of the lecture on Image Translation](lec/Image_Translation.pdf) from D. Mikhailov
+* (2019-11-06) Posted [second theoretical task](assignments/theory02.pdf). Deadline for sending decisions: 11.26.2019 inclusive
+* (2019-11-06) Posted [fifth lecture](lec/lecture05.pdf)
+* (2019-10-22) Posted [first practical task](assignments/programming01.ipynb). Deadline for sending decisions: 12.11.2019 inclusive
+* (2019-10-22) Posted [fourth lecture](lec/lecture04.pdf)
+* (2019-10-16) Posted [third lecture](lec/lecture03.pdf) and the code from the [Keras Introduction Workshop](seminars/01_keras_intro.ipynb)
+* (2019-10-09) Posted [first theoretical task](assignments/theory01.pdf). Deadline for sending decisions: 10.29.2019 inclusive
+* (2019-10-09) Posted [second lecture](lec/lecture02.pdf)
+* (2019-10-02) Posted [first lecture](lec/lecture01.pdf)
+* (2019-09-23) The first lecture will take place on Tuesday, October 1 at 18:30 in room 1205 (main bilding MSU).
+## <a name="info1" /> Short info 
+In the fall semester of 2019 at the Faculty of Mechanics and Mathematics of Moscow State University. MV Lomonosov Moscow State University begins reading a new special course at the student's choice, dedicated to neural network algorithms for computer vision.
+
+The course will be taught on the basis of the Department of [Mathematical Theory of Intelligent Systems](http://intsys.msu.ru) under the guidance of Doctor of Physical and Mathematical Sciences, Professor [Babin D.N.](http://intsys.msu.ru/staff/babin/) The course will be delivered by Ph.D. Petiushko A.A. and Ph.D. Ivanov I.E.
+## <a name="ww1" /> Time and place 
+The course is read on Tuesdays, 18:30, main bilding MSU, room 1205. 
+## <a name="feedback1" /> Communication with teachers
+* [Telegram-channel](https://t.me/joinchat/AAAAAEUmx5cJLOdLXsOt8g), where all important news will appear
+* Feedback - by email mlcoursemm@gmail.com
+* Well, you can always write in [issues](https://github.com/mlcoursemm/cvcoursemm2019autumn/issues) :)
+## <a name="marks1" /> Evaluation criteria
+* Excellent: 52 points and above
+* Good: 39 points and above
+* Satisfactory / pass: 26 points and above
+* [Summary table with results](https://docs.google.com/spreadsheets/d/1i3ahmbSfCHeEEvsG7PFfaHqrQTRxUrF2BF4hw4xNydM/edit#gid=0)
+## <a name="program1" /> Course program 
+Topic 1.
+A brief history of the neural network approach in computer vision.
+
+Topic 2.
+Statement of the main tasks of computer vision.
+
+Topic 3.
+Convolutional neural networks. Types of layers.
+
+Topic 4.
+Stochastic gradient descent. Modern optimization algorithms.
+
+Topic 5.
+An introduction to neural network frameworks using Keras as an example.
+
+Topic 6.
+Backpropagation method.
+
+Topic 7.
+Methods for initializing neural network weights.
+
+Topic 8.
+Modern approaches to the problem of image classification.
+
+Topic 9.
+Modern approaches to the problem of detecting objects in images.
+
+Topic 10.
+Modern approaches to the problem of image segmentation.
+
+Topic 11.
+Modern approaches to the problem of face recognition.
+
+Topic 12.
+Modern approaches to the problem of improving the quality of images. Super resolution, blur and noise removal.
+
+Topic 13.
+Variational autoencoder.
+
+Topic 14.
+Generative adversarial models.
+
+Topic 15.
+Adversarial attacks on neural networks.
+
+Topic 16.
+Modern approaches to compression and acceleration of neural networks.
+## <a name="lit1" /> Bibliography
+1. Ian Goodfellow and Yoshua Bengio and Aaron Courville. [Deep Learning](https://www.deeplearningbook.org), 1st edition, MIT Press, 2016.
+2. http://neuralnetworksanddeeplearning.com/
+3. Francois Chollet. [Deep Learning with Python](http://faculty.neu.edu.cn/yury/AAI/Textbook/Deep%20Learning%20with%20Python.pdf), 1st edition, Manning, 2017.
+## <a name="links1" /> Useful links
+### Machine learning
+* It is desirable to have a base in the form of a machine learning course (for example, [here](https://github.com/mlcoursemm/mlcoursemm2019spring) lies the appropriate course)
+### Python
+* A Brief Introduction to the Programming Language Python [here](https://github.com/mlcoursemm/mlcoursemm2019spring/blob/master/prac/Python_intro.ipynb)
