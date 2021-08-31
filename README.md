@@ -104,6 +104,7 @@
 * Краткое введение в язык программирования Python [здесь](https://github.com/mlcoursemm/mlcoursemm2019spring/blob/master/prac/Python_intro.ipynb)
 
 
+
 ### <a name="en" /> EN version
 
 # Introduction to Computer Intelligence. Modern computer vision.
