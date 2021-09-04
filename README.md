@@ -142,7 +142,7 @@ In the fall semester of 2019 at the Faculty of Mechanics and Mathematics of Lomo
 
 The course will be taught on the basis of the Department of [Mathematical Theory of Intelligent Systems](http://intsys.msu.ru) under the guidance of Doctor of Physical and Mathematical Sciences, Professor [Babin D.N.](http://intsys.msu.ru/staff/babin/) The course will be delivered by Ph.D. [Petiushko A.A.](https://petiushko.info) and Ph.D. Ivanov I.E.
 ## <a name="ww1" /> Time and place 
-The clessons are to be taught on Tuesdays, 18:30, main bilding MSU, room 1205. 
+The lessons are to be taught on Tuesdays, 18:30, main bilding MSU, room 1205. 
 ## <a name="feedback1" /> Communication with teachers
 * [Telegram-channel](https://t.me/joinchat/AAAAAEUmx5cJLOdLXsOt8g), where all important news will appear
 * Feedback - by email mlcoursemm@gmail.com
